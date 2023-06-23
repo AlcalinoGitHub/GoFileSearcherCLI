@@ -7,7 +7,7 @@ The CLI can be launched with several flags
 
 + `-p` : it assigns the path to search. Defaults to `"."`
 
-+ `-n` : it assigns the name to search (if not provided, everything will be returned). Defaults to `""`
++ `-s` : it assigns the name to search (if not provided, everything will be returned). Defaults to `""`
 
 + `-r` : it assigns the recursive attribute. If true, all subfolders will be searched recursively as well. Defaults to `false`
 
